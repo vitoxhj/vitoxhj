@@ -18,6 +18,8 @@ Sou desenvolvedor full-stack e estou aprendendo python e javascript
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vitoxhj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/vitoxhj/vitoxhj/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://komarev.com/ghpvc/?username=vitoxhj&icon=0&color=0)](https://visitcount.itsvg.in)
 
